@@ -1,11 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>Page Title</title></head>
+
+<body>
+
+<h1>Hi Im Noel Novecio Gwapo</h1>
+
 <?php
-	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
-		$uri = 'https://';
-	} else {
-		$uri = 'http://';
-	}
-	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/dashboard/');
-	exit;
+echo "Its Me Again Noel!";
 ?>
-Something is wrong with the XAMPP installation :-(
+
+</body>
+</html>
