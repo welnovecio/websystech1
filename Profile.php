@@ -49,7 +49,7 @@ background-color: #00FFFF;
   border: 3px solid black;
   width: 500px;
   height:  650px;
-  background-color:#b30047;
+  background-color:#00FFFF;
 }
 #myform
 {
