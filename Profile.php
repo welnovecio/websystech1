@@ -20,7 +20,7 @@ left: 10%;
 }
 
 .button1 {
-  background-color: #99e6ff;
+  background-color: #00FFFF;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -37,7 +37,7 @@ padding: 14px 20px;
 }
 #submitbtn
 {
-background-color: dodgerblue;
+background-color: #00FFFF;
 }
 #resetbtn,#submitbtn {
   float: left;
